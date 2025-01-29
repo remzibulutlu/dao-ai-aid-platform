@@ -2,6 +2,8 @@
 
 A decentralized blockchain-based platform for transparent and efficient aid distribution, powered by smart contracts and AI-driven decision making.
 
+Actual project is still ongoing, mock project can be found here:
+https://aid-platfrom-mock.netlify.app/
 
 ## Features
 
